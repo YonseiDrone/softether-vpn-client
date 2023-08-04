@@ -155,7 +155,7 @@ To permanently sign out, first disconnect from the VPN and run the following com
 
 ---
 
-For more fine tuned control, first set up the VPN client using the `[setup-client.sh](http://setup-client.sh)` script, then navigate to `~/softether/vpnclient`
+For more fine tuned control, first set up the VPN client using the `setup-client.sh` script, then navigate to `~/softether/vpnclient`
 
 Then start the vpn client by running the following command:
 
