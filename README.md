@@ -6,7 +6,7 @@ SoftEther VPN Client (Linux; choose architecture accordingly)
 
 https://www.softether-download.com/en.aspx?product=softether
 
-Original author of the scripts above is https://github.com/mfaizanse
+Original author of the scripts is https://github.com/mfaizanse
 
 ----
 Make sure that IP forwarding is enabled:
