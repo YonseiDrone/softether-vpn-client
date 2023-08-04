@@ -52,7 +52,7 @@ mkdir ~/softether
 tar -xf softether-vpnclient-blahblah.tar.gz -C ~/softether
 ```
 
-Save the scripts you downloaded from github into `~/softether`
+Save the scripts in this repo to `~/softether`
 
 Open the `vpn_config` file, edit and save the following:
 
